@@ -46,4 +46,4 @@ Developed reusable components, responsive layouts, navigation, and interactive p
 
 - **Email:** [kunalrkathiriya29@gmail.com](mailto\:kunalrkathiriya29@gmail.com)
 - **LinkedIn:** [linkedin.com/in/krunal-kathiriya](https://linkedin.com/in/krunal-kathiriya)
-- **Portfolio:** [portfolio-cg46.onrender.com](https://portfolio-cg46.onrender.com/)
+- **Portfolio:** [portfolio-cg46.onrender.com](https://portfolio-70enqmcmp-kunal007us-projects.vercel.app/)
