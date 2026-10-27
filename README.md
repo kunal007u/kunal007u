@@ -1,29 +1,49 @@
 # Krunal Kathiriya
 
-Full-Stack Software Engineer · React · Next.js · Node.js · PostgreSQL
-MS in Computer Science @ DePaul University · Open to full-time SWE roles
+**Full-Stack Software Engineer | React | TypeScript | Node.js | PostgreSQL**
 
-Two years building production web apps, React/Next.js on the frontend, Node and Postgres on the backend. Finishing my MS at DePaul in Chicago now, looking for what's next, hybrid or remote both work.
+MS in Computer Science at DePaul University, Chicago
+Open to full-time Software Engineer and Full-Stack Developer roles.
+
+I'm a software engineer with nearly two years of professional experience building production web applications. My work has focused on React, TypeScript, reusable components, and connecting frontend applications to backend APIs.
+
+I also work with Node.js, Express, and PostgreSQL. I'm currently strengthening my backend and system design skills while finishing my master's degree.
 
 ## Tech Stack
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express, REST APIs
-Database: PostgreSQL, MongoDB
-Tools: Git, Docker, AWS basics, Prisma
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Redux Toolkit, React Query, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Database:** PostgreSQL, MongoDB, Sequelize, Prisma
+- **Tools:** Git, GitHub, Docker, AWS, Swagger
 
 ## Featured Projects
 
 ### HRMS Platform
-Employee management system covering payroll, attendance, leave tracking, and role-based access across four user roles. Built with React, Node.js, PostgreSQL, and cron jobs handling the recurring HR tasks.
-[Live demo](https://hrms-mono-frontend.onrender.com) · [Code](https://github.com/kunal007u/HRMS_MONO)
 
-### PragetX Corporate Site
-Company marketing site rebuilt in Next.js with server-side rendering. Lighthouse score went from 42 to 88, organic traffic picked up after.
-[Live demo](https://praget-x-ten.vercel.app/) · [Code](https://github.com/kunal007u/Pragetx)
+An enterprise Human Resource Management System covering employee records, attendance, payroll, leave management, assets, and project tracking.
+
+Led frontend development using React and TypeScript. Built role-based interfaces, integrated REST APIs, and managed application state with Redux Toolkit and React Query.
+
+**Tech:** React, TypeScript, Redux Toolkit, React Query, Material UI, Node.js, PostgreSQL
+
+### Clickasa – Service Marketplace
+
+A service marketplace connecting customers with technicians for installation, maintenance, and other service requests.
+
+Developed React admin interfaces for managing customers, service providers, bookings, and service categories. Connected administrative workflows to backend APIs.
+
+**Tech:** React, TypeScript, Material UI, Node.js, Express, PostgreSQL
+
+### PragetX Corporate Website
+
+Rebuilt the company's existing HTML and JavaScript website using React.
+
+Developed reusable components, responsive layouts, navigation, and interactive pages for company services, portfolios, and contact inquiries.
+
+**Tech:** React, JavaScript, React Router, Bootstrap
 
 ## Reach Me
 
-Email: kunalrkathiriya29@gmail.com
-LinkedIn: linkedin.com/in/krunal-kathiriya
-Portfolio: portfolio-cg46.onrender.com
+- **Email:** [kunalrkathiriya29@gmail.com](mailto\:kunalrkathiriya29@gmail.com)
+- **LinkedIn:** [linkedin.com/in/krunal-kathiriya](https://linkedin.com/in/krunal-kathiriya)
+- **Portfolio:** [portfolio-cg46.onrender.com](https://portfolio-cg46.onrender.com/)
